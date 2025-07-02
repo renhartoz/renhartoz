@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aaron Hartono and I'm a Fullstack Developer, from Indonesia</h2>
+<h2 align="left">Aaron Hartono -- Software Engineer (:ID)</h2>
 
 ###
 
