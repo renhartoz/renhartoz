@@ -1,4 +1,4 @@
-<h2 align="left">Aaron Hartono -- Software Engineer (:ID:)</h2>
+<h2 align="left">Aaron Hartono -- Software Engineer (🇮🇩)</h2>
 
 ###
 
