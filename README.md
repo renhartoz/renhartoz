@@ -1,4 +1,8 @@
 <h2 align="left">Aaron Hartono -- Software Engineer (🇮🇩)</h2>
+###
+
+| <a href="https://github.com/44120N/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=44120N&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="44120N's github stats" /></a> | <a href="https://github.com/44120N/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=44120N&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ###
 
