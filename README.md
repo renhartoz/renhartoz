@@ -2,7 +2,7 @@
 
 ###
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=44120N&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" alt="44120N" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=44120n&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Language Usage"  /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=44120N&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" alt="44120N" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=44120n&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula" alt="Language Usage"  /> |
 | ------------- | ------------- |
 
 ###
