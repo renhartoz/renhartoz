@@ -55,8 +55,8 @@ Python + LLM streaming chatbot generator using modular service architecture.
 ### 📊 GitHub Stats
 
 <span>
-  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=renhartoz&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=renhartoz&layout=compact&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=renhartoz&show_icons=true&theme=highcontrast&include_all_commits=true&hide_border=true" alt="renhartoz" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=renhartoz&locale=en&hide_title=false&layout=compact&langs_count=5&theme=highcontrast&hide_border=true" alt="Language Usage" /> 
 </span>
 
 ---
