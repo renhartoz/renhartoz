@@ -1,4 +1,4 @@
-<h1 align="center">Aaron Hartono</h1>
+<h1 align="left">Aaron Hartono</h1>
 <h2 align="left">Software Engineer (🇮🇩)</h2>
 
 ###
