@@ -47,7 +47,7 @@ A web platform for environmental impact: tree donations, progress tracking, and 
 A custom VS Code color theme inspired by Nightcord aesthetic, built with high contrast readability and clean UI styling.
 
 🧬 **Omnichannel Chatbot**  
-Python + LLM streaming chatbot generator using modular service architecture connected to WhatsApp.
+Python + LLM streaming chatbot generator using modular service architecture connected to Meta Apps (WhatsApp, Instagram).
 
 ---
 
