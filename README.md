@@ -1,4 +1,4 @@
-<h1 align="left">Hey, I'm Aaron Hartono 👋</h1>
+<h1 align="left">Aaron Hartono</h1>
 <h3 align="left">Software Engineer • Python Developer • Indonesia 🇮🇩</h3>
 
 ---
@@ -47,8 +47,8 @@ A web platform for environmental impact: tree donations, progress tracking, and 
 🎨 **25-ji Nightcord VS Code Theme**  
 A custom VS Code color theme inspired by Nightcord aesthetic, built with high contrast readability and clean UI styling.
 
-🧬 **AI-Powered Course Bot Generator**  
-Python + LLM streaming chatbot generator using modular service architecture.
+🧬 **Omnichannel Chatbot**  
+Python + LLM streaming chatbot generator using modular service architecture connected to WhatsApp.
 
 ---
 
