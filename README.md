@@ -7,7 +7,6 @@
 - 🔧 Full-stack developer with strong experience in **Python**, **Flask**, **Django**, **React**, and **SQL/NoSQL**  
 - 🔒 Currently building a **Rumah Ilmiah**, a mathematics and informatics digital course.  
 - 🧠 Strong interest in **AI systems**, **Blockchain Consensus**, **system design**, **infrastructure**, and **Quantum Computing**  
-- 🎓 Tutor & mentor at Canitutor — I love helping others understand technology  
 - 🧩 I enjoy designing **complex algorithms**, solving abstract problems, and exploring system-level thinking  
 
 ---
